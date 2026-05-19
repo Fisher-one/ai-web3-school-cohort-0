@@ -10,15 +10,13 @@
 
 ## 目录说明
 
-| 目录 | 用途 |
-|------|------|
-| `daily/` | 每日学习记录 |
-| `tasks/` | 课程任务笔记 |
-| `experiments/` | 实验与代码练习 |
-| `handbook-feedback/` | Handbook 问题与改进建议 |
-| `hackathon/` | Hackathon 项目 |
-| `submissions/` | 提交记录 |
-| `templates/` | 笔记模板 |
+- `daily/` — 每日学习记录
+- `tasks/` — 课程任务笔记
+- `experiments/` — 实验与代码练习
+- `handbook-feedback/` — Handbook 问题与改进建议
+- `hackathon/` — Hackathon 项目
+- `submissions/` — 提交记录
+- `templates/` — 笔记模板
 
 ## 隐私提醒
 
