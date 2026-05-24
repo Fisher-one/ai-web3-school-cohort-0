@@ -27,7 +27,7 @@ Agent 配置：[learning-agent.zh.txt](https://aiweb3.school/learning-agent.zh.t
 
 [tasks/week1-web3-concept-cards.md](./tasks/week1-web3-concept-cards.md)
 
-用自己的话 + Go 后端类比解释了 8 个 Web3 核心概念：钱包、私钥、交易、Gas、智能合约、ABI、测试网、区块浏览器。
+用后端类比解释了 8 个 Web3 核心概念：钱包、私钥、交易、Gas、智能合约、ABI、测试网、区块浏览器。
 
 ### 4. 测试网交易记录 / 合约地址
 
