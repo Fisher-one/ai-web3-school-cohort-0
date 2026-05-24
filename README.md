@@ -40,7 +40,7 @@ Agent 配置：[learning-agent.zh.txt](https://aiweb3.school/learning-agent.zh.t
 
 ### 5. AI × Web3 最小交叉流程图
 
-[tasks/aiweb3.excalidraw](./tasks/aiweb3.excalidraw) ｜ [说明文档](./tasks/week1-ai-web3-cross-workflow.md)
+[tasks/aiweb3.excalidraw](./tasks/ai-web3-task-week1.png) ｜ [说明文档](./tasks/week1-ai-web3-cross-workflow.md)
 
 从「用户自然语言输入」到「链上执行验证」的完整流程图，标注了：
 - 谁发起 / 谁执行（AI侧 Agent + Web3侧链）
@@ -50,7 +50,7 @@ Agent 配置：[learning-agent.zh.txt](https://aiweb3.school/learning-agent.zh.t
 
 **一句话总结：** AI 负责推理和生成，人负责决策和签名，链负责执行和记录——三方各守边界，才是可信的 AI × Web3 系统。
 
-### 6. 本周遇到的问题 + 人工修正记录
+### 6. 本周遇到的问题
 
 **问题：流程图箭头连接混乱，布局太紧凑**
 
@@ -96,6 +96,4 @@ Agent 配置：[learning-agent.zh.txt](https://aiweb3.school/learning-agent.zh.t
 
 Agent 启动 Prompt：[https://aiweb3.school/learning-agent.zh.txt](https://aiweb3.school/learning-agent.zh.txt)
 
-## 隐私提醒
 
-本仓库为公开仓库，请勿提交任何 API Key、私钥、助记词、密码或其他敏感信息。
